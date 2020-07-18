@@ -1,0 +1,24 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+#inputCurrentFrequency {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+#inputRangeFrequencies {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 100px;
+  height: 100 px;
+  border-radius: 50%;
+}
